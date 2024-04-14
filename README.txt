@@ -1,4 +1,4 @@
-GitHub: 
+GitHub: https://github.com/double-o-3/COMP-3005-Final-Project
 Explanation Video: https://youtu.be/Wv84ngvxiMo
 
 Step 1: Download the source code from GitHub, and save it somewhere you can access..
